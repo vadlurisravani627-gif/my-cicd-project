@@ -15,7 +15,7 @@ def home():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Student Systems</title>
+        <title>Student Management Systems</title>
         <style>
             * { margin: 0; padding: 0; box-sizing: border-box; }
             body {
@@ -308,4 +308,4 @@ def search_students():
     return jsonify(results)
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000)
+    app.run(host="0.0.0.0", port=5000) 
