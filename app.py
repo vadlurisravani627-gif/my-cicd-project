@@ -167,7 +167,7 @@ def home():
 
             <!-- Search -->
             <div class="form-card">
-                <h2>🔍 Search Student</h2>
+                <h2>🔍 Search Students</h2>
                 <div class="form-row">
                     <input type="text" id="search" placeholder="Search by name or roll number..." />
                     <button class="btn-search" onclick="searchStudent()">Search</button>
