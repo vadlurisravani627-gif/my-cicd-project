@@ -149,7 +149,7 @@ def home():
     </head>
     <body>
         <div class="container">
-            <h1>🎓 Student Management System</h1>
+            <h1>🎓 Student Management Systems</h1>
             <p class="subtitle">Deployed via CI/CD Pipeline — GitHub Actions + Docker + Render</p>
             <div class="badge"><span>✅ Live & Auto-Deployed</span></div>
 
