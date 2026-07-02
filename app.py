@@ -15,7 +15,7 @@ def home():
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Student Management System</title>
+        <title>Student Management Systems</title>
         <style>
             * { margin: 0; padding: 0; box-sizing: border-box; }
             body {
